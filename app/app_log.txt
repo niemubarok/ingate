@@ -1,0 +1,1023 @@
+2024-01-14 07:26:15,548 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 07:26:15,548 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 07:26:15,548 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 07:27:19,237 - INFO - Aplikasi dihentikan.
+2024-01-14 07:27:19,237 - INFO - Aplikasi dihentikan.
+2024-01-14 07:27:19,237 - INFO - Aplikasi dihentikan.
+2024-01-14 08:18:36,920 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:18:36,920 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:18:36,920 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:20:11,570 - INFO - Aplikasi dihentikan.
+2024-01-14 08:20:11,570 - INFO - Aplikasi dihentikan.
+2024-01-14 08:20:11,570 - INFO - Aplikasi dihentikan.
+2024-01-14 08:31:55,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:31:55,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:31:55,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:33:38,080 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:33:38,080 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:33:38,080 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:36:34,617 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:36:34,617 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:36:34,617 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:41:47,451 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:41:47,451 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:41:47,451 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:42:17,432 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,432 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,432 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,434 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,434 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,434 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,835 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,835 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,835 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,836 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,836 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,836 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,839 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,839 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,839 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:17,841 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,841 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:17,841 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:19,019 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:19,019 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:19,019 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:19,021 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:19,021 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:19,021 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,273 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,273 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,273 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,276 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,276 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,276 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,584 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,584 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,584 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,586 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,586 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,586 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,602 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,602 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,602 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,605 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,605 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,605 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,609 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,609 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,609 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,612 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,612 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,612 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,617 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,617 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,617 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,619 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,619 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,619 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,624 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,624 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,624 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,626 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,626 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,626 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,642 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,642 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,642 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,644 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,644 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,644 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,649 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,649 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,649 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,650 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,650 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,650 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,655 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,655 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,655 - ERROR - Error connecting to the database: connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-01-14 08:42:20,656 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,656 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:42:20,656 - WARNING - Tidak dapat melanjutkan proses. Id pintu masuk belum dibuat.
+2024-01-14 08:49:33,342 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:49:33,342 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:49:33,342 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:52:59,048 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:52:59,048 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:52:59,048 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 08:53:14,982 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:14,982 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:14,982 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:14,994 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:14,994 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:14,994 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,010 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,010 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,010 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,017 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,017 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:15,017 - INFO - Tombol struk ditekan!
+2024-01-14 08:53:30,652 - INFO - Gate tertutup
+2024-01-14 08:53:30,652 - INFO - Gate tertutup
+2024-01-14 08:53:30,652 - INFO - Gate tertutup
+2024-01-14 08:53:30,803 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:53:30,803 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:53:30,803 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:53:42,005 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,005 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,005 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,007 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,007 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,007 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,014 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,014 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,014 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,019 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,019 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,019 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,020 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,020 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:53:42,020 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 08:54:00,122 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,122 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,122 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,127 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,127 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,127 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,133 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,133 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:00,133 - INFO - Tombol struk ditekan!
+2024-01-14 08:54:12,165 - INFO - Gate tertutup
+2024-01-14 08:54:12,165 - INFO - Gate tertutup
+2024-01-14 08:54:12,165 - INFO - Gate tertutup
+2024-01-14 08:54:12,167 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,167 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,167 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,323 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,323 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,323 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,326 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,326 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,326 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,327 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,327 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,327 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,330 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,330 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,330 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,340 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,340 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,340 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,343 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,343 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,343 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,344 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,344 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 08:54:12,344 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:14:56,697 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 09:14:56,697 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 09:14:56,697 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 09:15:15,727 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,727 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,727 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,734 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,734 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,734 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,863 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,863 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,863 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,870 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,870 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:15,870 - INFO - Tombol struk ditekan!
+2024-01-14 09:15:23,210 - INFO - Gate tertutup
+2024-01-14 09:15:23,210 - INFO - Gate tertutup
+2024-01-14 09:15:23,210 - INFO - Gate tertutup
+2024-01-14 09:15:23,212 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,212 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,212 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,214 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,214 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,214 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,242 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,242 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,242 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,243 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,243 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,243 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,248 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,248 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,248 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,250 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,250 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,250 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,254 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,254 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,254 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,262 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,262 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,262 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,263 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,263 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,263 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,266 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,266 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,266 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,296 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,296 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,296 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,328 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,328 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,328 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,359 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,359 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,359 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,375 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,375 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,375 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,376 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,376 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,376 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,377 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,377 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,377 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,379 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,379 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,379 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,381 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,381 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,381 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,382 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,382 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,382 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,383 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,383 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:15:23,383 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 09:19:37,895 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 09:19:37,895 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 09:19:37,895 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:38:56,440 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:38:56,440 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:38:56,440 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:43:15,979 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:43:15,979 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:43:15,979 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:00,168 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:00,168 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:00,168 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:57,661 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:57,661 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:53:57,661 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 10:54:12,959 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:12,959 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:12,959 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,004 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,004 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,004 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,023 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,023 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,023 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,026 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,026 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,026 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,031 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,031 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,031 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,132 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,132 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,132 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,198 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,198 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,198 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,200 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,200 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,200 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,201 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,201 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,201 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,206 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,206 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,206 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,207 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,213 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,213 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,213 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,221 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,221 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,221 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,223 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,223 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,223 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,229 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,229 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:13,229 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,060 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,060 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,060 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,062 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,062 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,062 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,072 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,072 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,072 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,074 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,074 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,074 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,075 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,075 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,075 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,183 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,183 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,183 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,185 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,185 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,185 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,190 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,190 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,190 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,454 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,454 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,454 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,467 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,467 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,467 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,468 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,468 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,468 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,469 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,469 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,469 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,470 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,470 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,470 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,472 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,472 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,472 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,474 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,474 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,474 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,475 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,475 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,475 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,476 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,476 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,476 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,477 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,477 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:14,477 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,308 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,308 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,308 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,346 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,346 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,346 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,400 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,400 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,400 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,402 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,402 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,402 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,492 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,492 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,492 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,510 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,510 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,510 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,511 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,511 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,511 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,512 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,512 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,512 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,513 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,513 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,513 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,516 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,516 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,516 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,517 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,517 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,517 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,601 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,601 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,601 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,620 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,620 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,620 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,654 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,654 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,654 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,850 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,850 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,850 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,851 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,851 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,851 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,852 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,852 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,852 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,869 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,869 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,869 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,871 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,871 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:15,871 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,354 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,354 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,354 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,356 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,356 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,356 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,406 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,406 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,406 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,427 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,427 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,427 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,437 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,437 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,437 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,439 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,439 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,439 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,440 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,440 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,440 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,443 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,443 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,443 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,446 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,446 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,446 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,447 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,447 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,447 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,966 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,966 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:16,966 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,024 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,049 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,049 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,049 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,054 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,054 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,054 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,079 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,079 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,079 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,080 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,080 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,080 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,081 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,081 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,081 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,466 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,466 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,466 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,546 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,546 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,546 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,578 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,578 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,578 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,579 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,579 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,579 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,581 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,581 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,581 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,595 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,595 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,595 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,644 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,644 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:17,644 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,098 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,098 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,098 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,100 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,100 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 10:54:18,100 - WARNING - Tombol struk tidak dapat ditekan!
+2024-01-14 11:03:35,943 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:03:35,943 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:03:35,943 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:09:46,505 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:09:46,505 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:09:46,505 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:10:10,093 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:10,093 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:10,093 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:10,207 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:10,207 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:10,207 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:11,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:11,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:10:11,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:12:48,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:12:48,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:12:48,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:13:11,398 - INFO - Tombol struk ditekan!
+2024-01-14 11:13:11,398 - INFO - Tombol struk ditekan!
+2024-01-14 11:13:11,398 - INFO - Tombol struk ditekan!
+2024-01-14 11:13:43,493 - INFO - Gate tertutup
+2024-01-14 11:13:43,493 - INFO - Gate tertutup
+2024-01-14 11:13:43,493 - INFO - Gate tertutup
+2024-01-14 11:13:43,580 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,580 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,580 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,729 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,729 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,729 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,735 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,735 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,735 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,763 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,763 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,763 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,767 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,767 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,767 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,768 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,768 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,768 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,769 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,769 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,769 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,770 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,770 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,770 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,771 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,771 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,771 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,773 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,773 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,773 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,791 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,791 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,791 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,794 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,794 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,794 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,795 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,795 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,795 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,796 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,796 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:13:43,796 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:17:21,109 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:17:21,109 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:17:21,109 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:17:37,924 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:37,924 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:37,924 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:38,146 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:38,146 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:38,146 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:39,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:39,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:17:39,129 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:00,564 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:24:00,564 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:24:00,564 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:24:11,348 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:11,348 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:11,348 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:18,566 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:18,566 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:18,566 - INFO - Tombol struk ditekan!
+2024-01-14 11:24:34,963 - INFO - Gate tertutup
+2024-01-14 11:24:34,963 - INFO - Gate tertutup
+2024-01-14 11:24:34,963 - INFO - Gate tertutup
+2024-01-14 11:24:36,956 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:24:36,956 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:24:36,956 - WARNING - Status loop1 tidak sesuai.
+2024-01-14 11:27:49,662 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:27:49,662 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:27:49,662 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:28:17,857 - INFO - Tombol struk ditekan!
+2024-01-14 11:28:17,857 - INFO - Tombol struk ditekan!
+2024-01-14 11:28:17,857 - INFO - Tombol struk ditekan!
+2024-01-14 11:28:26,805 - INFO - Tombol struk ditekan!
+2024-01-14 11:28:26,805 - INFO - Tombol struk ditekan!
+2024-01-14 11:28:26,805 - INFO - Tombol struk ditekan!
+2024-01-14 11:34:08,199 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:34:08,199 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:34:08,199 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:37:05,627 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:37:05,627 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:37:05,627 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:37:21,105 - INFO - Tombol struk ditekan!
+2024-01-14 11:37:21,105 - INFO - Tombol struk ditekan!
+2024-01-14 11:37:21,105 - INFO - Tombol struk ditekan!
+2024-01-14 11:37:29,224 - INFO - Tombol struk ditekan!
+2024-01-14 11:37:29,224 - INFO - Tombol struk ditekan!
+2024-01-14 11:37:29,224 - INFO - Tombol struk ditekan!
+2024-01-14 11:41:34,289 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:41:34,289 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:41:34,289 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:42:12,877 - INFO - Tombol struk ditekan!
+2024-01-14 11:42:12,877 - INFO - Tombol struk ditekan!
+2024-01-14 11:42:12,877 - INFO - Tombol struk ditekan!
+2024-01-14 11:44:56,319 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:44:56,319 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:44:56,319 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:45:08,117 - INFO - Tombol struk ditekan!
+2024-01-14 11:45:08,117 - INFO - Tombol struk ditekan!
+2024-01-14 11:45:08,117 - INFO - Tombol struk ditekan!
+2024-01-14 11:45:15,335 - INFO - Tombol struk ditekan!
+2024-01-14 11:45:15,335 - INFO - Tombol struk ditekan!
+2024-01-14 11:45:15,335 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:38,160 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:46:38,160 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:46:38,160 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:46:49,725 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:49,725 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:49,725 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:55,721 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:55,721 - INFO - Tombol struk ditekan!
+2024-01-14 11:46:55,721 - INFO - Tombol struk ditekan!
+2024-01-14 11:57:01,310 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:57:01,310 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:57:01,310 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:58:10,707 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:58:10,707 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:58:10,707 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:59:52,218 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:59:52,218 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 11:59:52,218 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:00:23,838 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:00:23,838 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:00:23,838 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:02:55,350 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:02:55,350 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:02:55,350 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:03:11,707 - INFO - Tombol struk ditekan!
+2024-01-14 12:03:11,707 - INFO - Tombol struk ditekan!
+2024-01-14 12:03:11,707 - INFO - Tombol struk ditekan!
+2024-01-14 12:07:56,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:07:56,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:07:56,364 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:08:09,086 - INFO - Tombol struk ditekan!
+2024-01-14 12:08:09,086 - INFO - Tombol struk ditekan!
+2024-01-14 12:08:09,086 - INFO - Tombol struk ditekan!
+2024-01-14 12:08:15,663 - INFO - Tombol struk ditekan!
+2024-01-14 12:08:15,663 - INFO - Tombol struk ditekan!
+2024-01-14 12:08:15,663 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:22,141 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:09:22,141 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:09:22,141 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:09:36,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:36,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:36,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:44,695 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:44,695 - INFO - Tombol struk ditekan!
+2024-01-14 12:09:44,695 - INFO - Tombol struk ditekan!
+2024-01-14 12:10:47,036 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:10:47,036 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:10:47,036 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:11:13,176 - INFO - Tombol struk ditekan!
+2024-01-14 12:11:13,176 - INFO - Tombol struk ditekan!
+2024-01-14 12:11:13,176 - INFO - Tombol struk ditekan!
+2024-01-14 12:11:21,650 - INFO - Tombol struk ditekan!
+2024-01-14 12:11:21,650 - INFO - Tombol struk ditekan!
+2024-01-14 12:11:21,650 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:35,612 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:13:35,612 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:13:35,612 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:13:45,726 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:45,726 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:45,726 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:53,959 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:53,959 - INFO - Tombol struk ditekan!
+2024-01-14 12:13:53,959 - INFO - Tombol struk ditekan!
+2024-01-14 12:14:50,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:14:50,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:14:50,363 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:14:57,859 - INFO - Tombol struk ditekan!
+2024-01-14 12:14:57,859 - INFO - Tombol struk ditekan!
+2024-01-14 12:14:57,859 - INFO - Tombol struk ditekan!
+2024-01-14 12:15:14,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:15:14,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:15:14,769 - INFO - Tombol struk ditekan!
+2024-01-14 12:17:58,033 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:17:58,033 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:17:58,033 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:18:04,627 - INFO - Tombol struk ditekan!
+2024-01-14 12:18:04,627 - INFO - Tombol struk ditekan!
+2024-01-14 12:18:04,627 - INFO - Tombol struk ditekan!
+2024-01-14 12:18:12,070 - INFO - Tombol struk ditekan!
+2024-01-14 12:18:12,070 - INFO - Tombol struk ditekan!
+2024-01-14 12:18:12,070 - INFO - Tombol struk ditekan!
+2024-01-14 12:20:50,209 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:20:50,209 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:20:50,209 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:20:58,679 - INFO - Tombol struk ditekan!
+2024-01-14 12:20:58,679 - INFO - Tombol struk ditekan!
+2024-01-14 12:20:58,679 - INFO - Tombol struk ditekan!
+2024-01-14 12:21:08,026 - INFO - Tombol struk ditekan!
+2024-01-14 12:21:08,026 - INFO - Tombol struk ditekan!
+2024-01-14 12:21:08,026 - INFO - Tombol struk ditekan!
+2024-01-14 12:22:05,038 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:22:05,038 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:22:05,038 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:23:33,975 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:23:33,975 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:23:33,975 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:23:42,761 - INFO - Tombol struk ditekan!
+2024-01-14 12:23:42,761 - INFO - Tombol struk ditekan!
+2024-01-14 12:23:42,761 - INFO - Tombol struk ditekan!
+2024-01-14 12:23:49,541 - INFO - Tombol struk ditekan!
+2024-01-14 12:23:49,541 - INFO - Tombol struk ditekan!
+2024-01-14 12:23:49,541 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:22,784 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:29:22,784 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:29:22,784 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:29:32,302 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,302 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,302 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,307 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,307 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,307 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,312 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,312 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,312 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,316 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,316 - INFO - Tombol struk ditekan!
+2024-01-14 12:29:32,316 - INFO - Tombol struk ditekan!
+2024-01-14 12:30:38,017 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:30:38,017 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:30:38,017 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:30:52,586 - INFO - Tombol struk ditekan!
+2024-01-14 12:30:52,586 - INFO - Tombol struk ditekan!
+2024-01-14 12:30:52,586 - INFO - Tombol struk ditekan!
+2024-01-14 12:34:52,154 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:34:52,154 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:34:52,154 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:35:04,716 - INFO - Tombol struk ditekan!
+2024-01-14 12:35:04,716 - INFO - Tombol struk ditekan!
+2024-01-14 12:35:04,716 - INFO - Tombol struk ditekan!
+2024-01-14 12:35:12,060 - INFO - Tombol struk ditekan!
+2024-01-14 12:35:12,060 - INFO - Tombol struk ditekan!
+2024-01-14 12:35:12,060 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:43,490 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:36:43,490 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:36:43,490 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:36:48,163 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:48,163 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:48,163 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:56,023 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:56,023 - INFO - Tombol struk ditekan!
+2024-01-14 12:36:56,023 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:36,991 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:37:36,991 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:37:36,991 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:37:44,112 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:44,112 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:44,112 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:50,807 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:50,807 - INFO - Tombol struk ditekan!
+2024-01-14 12:37:50,807 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:03,044 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:39:03,044 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:39:03,044 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:39:09,692 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:09,692 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:09,692 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:15,521 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:15,521 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:15,521 - INFO - Tombol struk ditekan!
+2024-01-14 12:39:44,976 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:39:44,976 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:39:44,976 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:40:08,529 - INFO - Tombol struk ditekan!
+2024-01-14 12:40:08,529 - INFO - Tombol struk ditekan!
+2024-01-14 12:40:08,529 - INFO - Tombol struk ditekan!
+2024-01-14 12:40:15,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:40:15,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:40:15,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:41:19,060 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:41:19,060 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:41:19,060 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:41:32,082 - INFO - Tombol struk ditekan!
+2024-01-14 12:41:32,082 - INFO - Tombol struk ditekan!
+2024-01-14 12:41:32,082 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:27,884 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:44:27,884 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:44:27,884 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:44:44,701 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:44,701 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:44,701 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:44,730 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:44,730 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:44,730 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:51,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:51,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:44:51,646 - INFO - Tombol struk ditekan!
+2024-01-14 12:46:46,019 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:46:46,019 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:46:46,019 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:46:59,842 - INFO - Tombol struk ditekan!
+2024-01-14 12:46:59,842 - INFO - Tombol struk ditekan!
+2024-01-14 12:46:59,842 - INFO - Tombol struk ditekan!
+2024-01-14 12:47:12,581 - INFO - Tombol struk ditekan!
+2024-01-14 12:47:12,581 - INFO - Tombol struk ditekan!
+2024-01-14 12:47:12,581 - INFO - Tombol struk ditekan!
+2024-01-14 12:48:44,431 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:48:44,431 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:48:44,431 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:49:11,250 - INFO - Tombol struk ditekan!
+2024-01-14 12:49:11,250 - INFO - Tombol struk ditekan!
+2024-01-14 12:49:11,250 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:41,792 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:54:41,792 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:54:41,792 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 12:54:57,193 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,193 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,193 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,196 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,196 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,196 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,199 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,199 - INFO - Tombol struk ditekan!
+2024-01-14 12:54:57,199 - INFO - Tombol struk ditekan!
+2024-01-14 12:55:11,410 - INFO - Tombol struk ditekan!
+2024-01-14 12:55:11,410 - INFO - Tombol struk ditekan!
+2024-01-14 12:55:11,410 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:05,936 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 19:16:05,936 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 19:16:05,936 - INFO - Aplikasi berjalan. Tekan Ctrl+C untuk menghentikan.
+2024-01-14 19:16:20,074 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:20,074 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:20,074 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:28,137 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:28,137 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:28,137 - INFO - Tombol struk ditekan!
+2024-01-14 19:16:35,691 - INFO - Gate tertutup
+2024-01-14 19:16:35,691 - INFO - Gate tertutup
+2024-01-14 19:16:35,691 - INFO - Gate tertutup
